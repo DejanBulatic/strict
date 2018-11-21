@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Nov-2018, 18:08:06
+    Author     : Dejan
+*/
+/** general start**/
+html {
+    font-size: 16px;
+}
+main {
+    font-family: 'Lato', sans-serif;
+}
+.custom-button {
+    color: #fff;
+    font-size: 1rem;
+    background: transparent;
+    padding: 10px 25px;
+    border: 1px solid #15A4FA;
+}
+/** general end **/
+/** header start **/
+header .navbar-brand .logo-text {
+    font-family: 'Lato', sans-serif;
+    color: #2D3950;
+    font-size: 1.6rem;
+}
+.navbar .navbar-nav .nav-item {
+    border-bottom: 1px solid #999999;
+}
+.navbar .navbar-nav .nav-item:last-of-type {
+    border-bottom: none;
+}
+.navbar .navbar-nav .nav-item .custom-active {
+    background-color: #fff;
+}
+/** header end **/
+/** hero section start **/
+.hero-section {
+    background-position: center;
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #15A4FA;
+    margin: 1em 0;
+    padding: 0; 
+    margin: 0px auto;
+    width: 75%;
+}
+/** hero section end **/
+
+
+
