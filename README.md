@@ -1,2 +1,2 @@
 # strict
-Responsive website
+Responsive website under construction
